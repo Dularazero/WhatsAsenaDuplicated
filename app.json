@@ -11,12 +11,10 @@
         "ASENA_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
-            "value": "ASENA;;;eyJjbGllbnRJRCI6IkcrQ0pTditic3h1OFE4dlBETHVidGc9PSIsInNlcnZlclRva2VuIjoiMUBWd0FMakRxM2NaRFl1cGpQekxJTnY4RzBKdzBjN0xaOGpTSWp5SWtlR3FHWXl2b0RsL0FnYWZRazFTWXpoejBFNHAyNEo5MkNoMy9oV1E9PSIsImNsaWVudFRva2VuIjoiQ1BRb1JSTlFJbHpBQjB0OCtiS2hiajNpZi9vUGFlcjJJNGx6dTE4WWx2ST0iLCJlbmNLZXkiOiJBUFNHRDZLWEwwa3czbTRzbkoxUmJ6TzNlaEVpdjloNVc1cFpoYjdPZHU0PSIsIm1hY0tleSI6Iis0bHplN1I4TzY2NzNYQkp3U29GM09QdFRJS3N0SHJzQWNabStiUEE0d3M9In0="
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false
-            "value": "94711392491,0"
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
