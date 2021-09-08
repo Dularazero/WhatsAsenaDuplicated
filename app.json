@@ -1,11 +1,11 @@
 {
     "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
+    "description": "Jenifer project - Better Service Better Future",
+    "logo": "https://telegra.ph//file/72df9d860888f365ce0f8.jpg",
+    "keywords": ["whatsapp", "userbot", "Jenifer", "Jenifer Bot", "bot", "api", "ai"],
     "repository": "https://github.com/Dularazero/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "website":   "https://t.me/Zer_0XD",
+    "success_url": "https://t.me/whatsappgang",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
